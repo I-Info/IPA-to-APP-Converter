@@ -2,6 +2,8 @@
 
 A fork of [paradiseduo/Converter](https://github.com/paradiseduo/Converter). Removed some unnecessary steps.
 
+[see more](https://blog.i1nfo.com/posts/ios-crack-sideload/)
+
 ## Convert IPA to Mac App (M1 SIP enabled)
 requirements:
 - decrypted app with [appdecrypt](https://github.com/paradiseduo/appdecrypt) or other tools
