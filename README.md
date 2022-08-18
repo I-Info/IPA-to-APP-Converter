@@ -5,7 +5,7 @@ A fork of [paradiseduo/Converter](https://github.com/paradiseduo/Converter). Rem
 ## Convert IPA to Mac App (M1 SIP enabled)
 requirements:
 - decrypted app with [appdecrypt](https://github.com/paradiseduo/appdecrypt) or other tools
-- ~~An Apple Developer Account with "teamID.com.*" mobileprovision~~  (You can resigning by a free Apple ID)
+- ~~An Apple Developer Account with "teamID.com.*" mobileprovision~~  (You also can resigning by a free Apple ID)
 - https://github.com/AloneMonkey/MonkeyDev or https://github.com/DanTheMan827/ios-app-signer
 
 ## How to use
@@ -41,5 +41,5 @@ Finish converter, you can found it in current work directory
 
 ## Thanks
 
-https://github.com/Mila432/IPA-to-App-M1
-https://github.com/paradiseduo/Converter
+- https://github.com/Mila432/IPA-to-App-M1
+- https://github.com/paradiseduo/Converter
